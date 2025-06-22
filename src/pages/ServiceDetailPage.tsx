@@ -245,7 +245,7 @@ const ServiceDetailPage = () => {
                     <span>{t('bookAppointment')}</span>
                   </button>
                   <a
-                    href="tel:+1234567890"
+                    href="tel:+962795850022"
                     className="flex items-center justify-center space-x-2 bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 px-8 py-4 rounded-xl border-2 border-blue-600 dark:border-blue-400 hover:bg-blue-50 dark:hover:bg-gray-700 transition-all duration-200 font-semibold"
                   >
                     <Phone className="h-5 w-5" />
